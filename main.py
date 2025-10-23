@@ -1,0 +1,1 @@
+print('Hello, world! program in Master IA & Data science')
